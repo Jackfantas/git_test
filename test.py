@@ -83,3 +83,4 @@ while True:
                     break
                 else:
                     exit('游戏结束！')
+# 我在本地修改后提交，验证服务器端是否会同步
